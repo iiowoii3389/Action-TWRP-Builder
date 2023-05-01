@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/CM-CHT/android_device_intel_cube_iwork8ultimate'
+        default: 'https://github.com/iiowoii3389/android_device_intel_cube_iwork8ultimate'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
