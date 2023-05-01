@@ -22,7 +22,7 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/intel/cube_iwork8ultimate'
+        default: 'device/intel/cht_cr_mrd'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
@@ -32,7 +32,7 @@ on:
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'cube_iwork8ultimate'
+        default: 'cht_cr_mrd'
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
